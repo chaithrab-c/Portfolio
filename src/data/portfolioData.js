@@ -103,13 +103,13 @@ export const education = [
   {
     degree: 'Master of Computer Applications (MCA)',
     institution: 'National Institute of Engineering, Mysore',
-    duration: '2022 - 2024',
-    cgpa: '8.25',
+    duration: '2021 - 2022',
+    cgpa: '8.26',
   },
   {
     degree: 'Bachelor of Computer Applications (BCA)',
     institution: 'Bapuji Institute of Hi-Tech Education, Davangere',
-    duration: '2019 - 2022',
+    duration: '2017 - 2020',
     cgpa: '8.31',
   },
 ]
