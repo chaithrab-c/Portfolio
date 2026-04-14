@@ -79,7 +79,7 @@ export default function Hero() {
         <div className="flex flex-wrap items-center gap-6 sm:gap-10 animate-fade-up animation-delay-500">
           {[
             { value: '6+',    label: 'Months Experience' },
-            { value: '8.25',  label: 'MCA CGPA' },
+            { value: '8.26',  label: 'MCA CGPA' },
             { value: '2',     label: 'Full Stack Projects' },
             { value: 'React', label: 'Primary Stack' },
           ].map((stat, i, arr) => (
